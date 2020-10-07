@@ -1,0 +1,14 @@
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgesConsoleApp\bin\Debug\BadgesConsoleApp.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgesConsoleApp\bin\Debug\BadgesConsoleApp.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgesConsoleApp\bin\Debug\BadgesConsoleApp.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Business Challenges\AppChallenges\GoldBadgeApps\BadgesConsoleApp\bin\Debug\BadgesConsoleApp.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Business Challenges\AppChallenges\GoldBadgeApps\BadgesConsoleApp\bin\Debug\BadgesConsoleApp.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Business Challenges\AppChallenges\GoldBadgeApps\BadgesConsoleApp\bin\Debug\BadgesConsoleApp.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Business Challenges\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Business Challenges\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Business Challenges\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Business Challenges\AppChallenges\GoldBadgeApps\BadgesConsoleApp\obj\Debug\BadgesConsoleApp.pdb

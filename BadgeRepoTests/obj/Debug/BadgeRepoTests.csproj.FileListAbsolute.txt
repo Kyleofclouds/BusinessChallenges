@@ -1,0 +1,17 @@
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\BadgeRepoTests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\BadgeRepoTests.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\BadgesConsoleApp.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\BadgesConsoleApp.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\BadgesConsoleApp.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\obj\Debug\BadgeRepoTests.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\obj\Debug\BadgeRepoTests.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\obj\Debug\BadgeRepoTests.csproj.CopyComplete
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\obj\Debug\BadgeRepoTests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\BadgeRepoTests\obj\Debug\BadgeRepoTests.pdb

@@ -1,0 +1,7 @@
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\GoldBadgeApps\obj\Debug\GoldBadgeApps.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\GoldBadgeApps\obj\Debug\GoldBadgeApps.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\GoldBadgeApps\bin\Debug\GoldBadgeApps.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\GoldBadgeApps\bin\Debug\GoldBadgeApps.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\GoldBadgeApps\bin\Debug\GoldBadgeApps.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\GoldBadgeApps\obj\Debug\GoldBadgeApps.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\GoldBadgeApps\obj\Debug\GoldBadgeApps.pdb

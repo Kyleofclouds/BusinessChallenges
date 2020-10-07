@@ -1,0 +1,17 @@
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\obj\Debug\CafeMenuRepoTests.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\obj\Debug\CafeMenuRepoTests.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\CafeMenuRepoTests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\CafeMenuRepoTests.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\GoldBadgeApps.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\GoldBadgeApps.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\GoldBadgeApps.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\obj\Debug\CafeMenuRepoTests.csproj.CopyComplete
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\obj\Debug\CafeMenuRepoTests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\CafeMenuRepoTests\obj\Debug\CafeMenuRepoTests.pdb

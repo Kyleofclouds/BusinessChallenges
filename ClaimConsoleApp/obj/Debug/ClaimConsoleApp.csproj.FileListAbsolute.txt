@@ -1,0 +1,7 @@
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\ClaimConsoleApp\bin\Debug\ClaimConsoleApp.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\ClaimConsoleApp\bin\Debug\ClaimConsoleApp.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\ClaimConsoleApp\bin\Debug\ClaimConsoleApp.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\ClaimConsoleApp\obj\Debug\ClaimConsoleApp.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\ClaimConsoleApp\obj\Debug\ClaimConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\ClaimConsoleApp\obj\Debug\ClaimConsoleApp.exe
+C:\Users\kylew\1150Projects\DotNetProjects\Portfolio\AppChallenges\GoldBadgeApps\ClaimConsoleApp\obj\Debug\ClaimConsoleApp.pdb
